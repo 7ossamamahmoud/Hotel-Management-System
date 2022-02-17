@@ -1,4 +1,4 @@
-# Trivago
+# Trivago Clone 
 
 
 ### <u> An application that helps the passenger to find his ideal hotel with the perfect price at a specific time .
